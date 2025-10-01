@@ -1,4 +1,26 @@
 {
     "version": 1,
-    "rules": []
+    "rules": [
+        {
+            "domain": [
+                "blog.laoda.de",
+                "futtsu.teracloud.jp"
+            ]
+        },
+        {
+            "domain_suffix": [
+                "ffzy-play2.com",
+                "lzcdn23.com",
+                "youshu.me",
+                "amiao.co",
+                "jiansouti.com",
+                "huawei8.live",
+                "appmiu.com",
+                "ffzy-plays.com",
+                "cdnlz22.com",
+                "kimivod.com",
+                "booklink.me"
+            ]
+        }
+    ]
 }
