@@ -1,5 +1,5 @@
-2025-10-01 13:53:20,733 - INFO - zdycn 规则整理完成:
-2025-10-01 13:53:20,733 - INFO - 类型: geosite
+2025-10-01 13:57:57,227 - INFO - zdycn 规则整理完成:
+2025-10-01 13:57:57,227 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 13
 规则分析:
@@ -9,8 +9,11 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-10-01 13:53:20,948 - INFO - download 规则整理完成:
-2025-10-01 13:53:20,948 - INFO - 类型: geosite
+2025-10-01 13:57:57,400 - ERROR - 读取 https://gist.githubusercontent.com/YLKX0106/ccdebbda3c6aa87b67ff4b8d773cb100/raw/download.list 时出错：HTTP Error 404: Not Found
+2025-10-01 13:57:57,402 - ERROR - 解析链接 https://gist.githubusercontent.com/YLKX0106/ccdebbda3c6aa87b67ff4b8d773cb100/raw/download.list 出现错误: 'pattern'
+2025-10-01 13:57:57,402 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-10-01 13:57:57,402 - INFO - download 规则整理完成:
+2025-10-01 13:57:57,402 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -20,9 +23,9 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-10-01 13:53:20,962 - INFO - 转换完成: ./rule/singbox/geosite-download.json → ./rule/surge/geosite-download.list, ./rule/shadowrocket/geosite-download.list
-2025-10-01 13:53:20,962 - INFO - 转换完成: ./rule/singbox/geosite-zdycn.json → ./rule/surge/geosite-zdycn.list, ./rule/shadowrocket/geosite-zdycn.list
-2025-10-01 13:53:20,973 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-download.mrs
-2025-10-01 13:53:20,999 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdycn.mrs
-2025-10-01 13:53:21,012 - INFO - ✅ sing-box 配置合并成功
-2025-10-01 13:53:21,012 - INFO - ✅ 已将配置文件移动至: /home/runner/work/proxy-ruleset-manager/proxy-ruleset-manager/template/singbox/config.json
+2025-10-01 13:57:57,416 - INFO - 转换完成: ./rule/singbox/geosite-download.json → ./rule/surge/geosite-download.list, ./rule/shadowrocket/geosite-download.list
+2025-10-01 13:57:57,417 - INFO - 转换完成: ./rule/singbox/geosite-zdycn.json → ./rule/surge/geosite-zdycn.list, ./rule/shadowrocket/geosite-zdycn.list
+2025-10-01 13:57:57,427 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-download.mrs
+2025-10-01 13:57:57,456 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdycn.mrs
+2025-10-01 13:57:57,469 - INFO - ✅ sing-box 配置合并成功
+2025-10-01 13:57:57,469 - INFO - ✅ 已将配置文件移动至: /home/runner/work/proxy-ruleset-manager/proxy-ruleset-manager/template/singbox/config.json
