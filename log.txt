@@ -1,8 +1,8 @@
-2025-10-11 12:16:49,843 - ERROR - 解析 https://gist.githubusercontent.com/YLKX0106/dcb37bd36b9f2e9547b6c993b7b8a2fe/raw/1.yaml 时出错：404 Client Error: Not Found for url: https://gist.githubusercontent.com/YLKX0106/dcb37bd36b9f2e9547b6c993b7b8a2fe/raw/1.yaml
-2025-10-11 12:16:49,845 - ERROR - 解析链接 https://gist.githubusercontent.com/YLKX0106/dcb37bd36b9f2e9547b6c993b7b8a2fe/raw/1.yaml 出现错误: 'pattern'
-2025-10-11 12:16:49,845 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-10-11 12:16:49,845 - INFO - zdycn 规则整理完成:
-2025-10-11 12:16:49,845 - INFO - 类型: geosite
+2025-10-12 12:17:25,829 - ERROR - 解析 https://gist.githubusercontent.com/YLKX0106/dcb37bd36b9f2e9547b6c993b7b8a2fe/raw/1.yaml 时出错：404 Client Error: Not Found for url: https://gist.githubusercontent.com/YLKX0106/dcb37bd36b9f2e9547b6c993b7b8a2fe/raw/1.yaml
+2025-10-12 12:17:25,832 - ERROR - 解析链接 https://gist.githubusercontent.com/YLKX0106/dcb37bd36b9f2e9547b6c993b7b8a2fe/raw/1.yaml 出现错误: 'pattern'
+2025-10-12 12:17:25,832 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-10-12 12:17:25,832 - INFO - zdycn 规则整理完成:
+2025-10-12 12:17:25,832 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -12,11 +12,11 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-10-11 12:16:50,003 - ERROR - 读取 https://gist.githubusercontent.com/YLKX0106/ccdebbda3c6aa87b67ff4b8d773cb100/raw/download.list 时出错：HTTP Error 404: Not Found
-2025-10-11 12:16:50,004 - ERROR - 解析链接 https://gist.githubusercontent.com/YLKX0106/ccdebbda3c6aa87b67ff4b8d773cb100/raw/download.list 出现错误: 'pattern'
-2025-10-11 12:16:50,004 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-10-11 12:16:50,004 - INFO - download 规则整理完成:
-2025-10-11 12:16:50,004 - INFO - 类型: geosite
+2025-10-12 12:17:25,985 - ERROR - 读取 https://gist.githubusercontent.com/YLKX0106/ccdebbda3c6aa87b67ff4b8d773cb100/raw/download.list 时出错：HTTP Error 404: Not Found
+2025-10-12 12:17:25,987 - ERROR - 解析链接 https://gist.githubusercontent.com/YLKX0106/ccdebbda3c6aa87b67ff4b8d773cb100/raw/download.list 出现错误: 'pattern'
+2025-10-12 12:17:25,987 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-10-12 12:17:25,987 - INFO - download 规则整理完成:
+2025-10-12 12:17:25,987 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -26,9 +26,9 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-10-11 12:16:50,018 - INFO - 转换完成: ./rule/singbox/geosite-download.json → ./rule/surge/geosite-download.list, ./rule/shadowrocket/geosite-download.list
-2025-10-11 12:16:50,018 - INFO - 转换完成: ./rule/singbox/geosite-zdycn.json → ./rule/surge/geosite-zdycn.list, ./rule/shadowrocket/geosite-zdycn.list
-2025-10-11 12:16:50,028 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-download.mrs
-2025-10-11 12:16:50,038 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdycn.mrs
-2025-10-11 12:16:50,049 - INFO - ✅ sing-box 配置合并成功
-2025-10-11 12:16:50,050 - INFO - ✅ 已将配置文件移动至: /home/runner/work/proxy-ruleset-manager/proxy-ruleset-manager/template/singbox/config.json
+2025-10-12 12:17:25,999 - INFO - 转换完成: ./rule/singbox/geosite-download.json → ./rule/surge/geosite-download.list, ./rule/shadowrocket/geosite-download.list
+2025-10-12 12:17:26,000 - INFO - 转换完成: ./rule/singbox/geosite-zdycn.json → ./rule/surge/geosite-zdycn.list, ./rule/shadowrocket/geosite-zdycn.list
+2025-10-12 12:17:26,009 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-download.mrs
+2025-10-12 12:17:26,019 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-zdycn.mrs
+2025-10-12 12:17:26,031 - INFO - ✅ sing-box 配置合并成功
+2025-10-12 12:17:26,031 - INFO - ✅ 已将配置文件移动至: /home/runner/work/proxy-ruleset-manager/proxy-ruleset-manager/template/singbox/config.json
