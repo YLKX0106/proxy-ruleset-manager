@@ -2,20 +2,8 @@
     "version": 1,
     "rules": [
         {
-            "domain": [
-                "m",
-                "n",
-                "d",
-                "-",
-                "o",
-                "b",
-                "c",
-                "i"
-            ]
-        },
-        {
             "domain_suffix": [
-                ""
+                "boomio-cdn.com"
             ]
         }
     ]
