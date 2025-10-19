@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "mf.nicoioamca.cn",
+                "www.nicoioamca.cn",
+                "huginn.nicoioamca.cn",
+                "ttrss.nicoioamca.cn",
+                "tv.nicoioamca.cn"
+            ]
+        },
+        {
+            "domain_suffix": [
+                "mikanani.me",
+                "zoovilleforum.net",
+                "oreno3d.com",
+                "35xss.com",
+                "derpibooru.org"
+            ]
+        }
+    ]
+}
