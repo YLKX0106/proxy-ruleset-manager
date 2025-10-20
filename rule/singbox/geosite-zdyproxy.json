@@ -3,20 +3,20 @@
     "rules": [
         {
             "domain": [
-                "ttrss.nicoioamca.cn",
-                "huginn.nicoioamca.cn",
-                "tv.nicoioamca.cn",
                 "mf.nicoioamca.cn",
-                "www.nicoioamca.cn"
+                "tv.nicoioamca.cn",
+                "ttrss.nicoioamca.cn",
+                "www.nicoioamca.cn",
+                "huginn.nicoioamca.cn"
             ]
         },
         {
             "domain_suffix": [
-                "35xss.com",
-                "oreno3d.com",
+                "mikanani.me",
                 "derpibooru.org",
                 "zoovilleforum.net",
-                "mikanani.me"
+                "35xss.com",
+                "oreno3d.com"
             ]
         }
     ]
