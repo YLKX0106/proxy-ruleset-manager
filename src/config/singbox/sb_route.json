@@ -52,13 +52,6 @@
         "format":"binary",
         "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-download.srs",
         "download_detour":"下载 (海外服务)"
-      },
-      {
-        "tag":"geosite-zdyporxy",
-        "type":"remote",
-        "format":"binary",
-        "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-zdyporxy.srs",
-        "download_detour":"下载 (海外服务)"
       }
     ],
     "auto_detect_interface":true,
