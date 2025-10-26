@@ -3,24 +3,24 @@
     "rules": [
         {
             "domain": [
-                "yyv14.qwe132456.cc",
                 "vip.ffzy-online1.com",
-                "blog.laoda.de",
-                "futtsu.teracloud.jp"
+                "yyv14.qwe132456.cc",
+                "futtsu.teracloud.jp",
+                "blog.laoda.de"
             ]
         },
         {
             "domain_suffix": [
                 "jiansouti.com",
-                "lzcdn23.com",
-                "youshu.me",
                 "amiao.co",
                 "huawei8.live",
-                "kimivod.com",
-                "booklink.me",
-                "cdnlz22.com",
+                "lzcdn23.com",
                 "ffzy-play2.com",
                 "ffzy-plays.com",
+                "booklink.me",
+                "cdnlz22.com",
+                "youshu.me",
+                "kimivod.com",
                 "appmiu.com"
             ]
         }
