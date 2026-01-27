@@ -4,19 +4,19 @@
         {
             "domain": [
                 "www.nicoioamca.cn",
+                "ttrss.nicoioamca.cn",
+                "mf.nicoioamca.cn",
                 "fc.lyz05.cn",
                 "huginn.nicoioamca.cn",
-                "mf.nicoioamca.cn",
-                "ttrss.nicoioamca.cn",
                 "tv.nicoioamca.cn"
             ]
         },
         {
             "domain_suffix": [
                 "oreno3d.com",
-                "mikanani.me",
                 "derpibooru.org",
                 "zoovilleforum.net",
+                "mikanani.me",
                 "35xss.com"
             ]
         }
