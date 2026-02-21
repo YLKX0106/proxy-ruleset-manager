@@ -3,33 +3,33 @@
     "rules": [
         {
             "domain": [
-                "od.catimage.work",
-                "vip.dytt-cine.com",
-                "futtsu.teracloud.jp",
                 "blog.laoda.de",
-                "yyv14.qwe132456.cc",
+                "futtsu.teracloud.jp",
                 "vip.ffzy-online1.com",
-                "vip.dytt-cinema.com"
+                "yyv14.qwe132456.cc",
+                "od.catimage.work",
+                "vip.dytt-cinema.com",
+                "vip.dytt-cine.com"
             ]
         },
         {
             "domain_suffix": [
-                "appmiu.com",
-                "amiao.co",
-                "jiansouti.com",
-                "lzcdn23.com",
-                "huawei8.live",
-                "booklink.me",
-                "youshu.me",
-                "jianfacb.com",
-                "acgrip.com",
-                "ffzy-play2.com",
-                "7yzzz.lat",
-                "gh-proxy.com",
                 "ffzy-plays.com",
+                "youshu.me",
+                "acgrip.com",
+                "jianfacb.com",
+                "gh-proxy.com",
+                "booklink.me",
+                "jiansouti.com",
+                "appmiu.com",
+                "huawei8.live",
+                "ffzy-play2.com",
                 "gh-proxy.org",
+                "lzcdn23.com",
                 "cdnlz22.com",
-                "kimivod.com"
+                "7yzzz.lat",
+                "kimivod.com",
+                "amiao.co"
             ]
         }
     ]
