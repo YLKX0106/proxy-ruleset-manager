@@ -3,8 +3,8 @@
     "rules": [
         {
             "domain_suffix": [
-                "megadl.boats",
                 "boomio-cdn.com",
+                "megadl.boats",
                 "megaupdownup.org"
             ]
         }
