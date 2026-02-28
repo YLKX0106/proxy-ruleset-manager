@@ -8,11 +8,11 @@
         },
         {
             "domain_suffix": [
-                "derpibooru.org",
-                "oreno3d.com",
-                "mikanani.me",
                 "35xss.com",
-                "zoovilleforum.net"
+                "zoovilleforum.net",
+                "mikanani.me",
+                "oreno3d.com",
+                "derpibooru.org"
             ]
         }
     ]
