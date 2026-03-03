@@ -403,6 +403,13 @@
         "format": "binary",
         "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-ad.srs",
         "download_detour": "下载 (海外服务)"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-lor",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/geosite-lor.srs",
+        "download_detour": "下载 (海外服务)"
       }
     ],
     "final": "默认代理",
