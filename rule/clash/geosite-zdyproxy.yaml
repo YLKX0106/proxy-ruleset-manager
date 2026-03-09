@@ -1,9 +1,9 @@
 payload:
+  - 'www.nicoioamca.cn'
   - 'fc.lyz05.cn'
   - 'mf.nicoioamca.cn'
-  - 'www.nicoioamca.cn'
-  - '+.derpibooru.org'
-  - '+.zoovilleforum.net'
   - '+.35xss.com'
-  - '+.mikanani.me'
   - '+.oreno3d.com'
+  - '+.zoovilleforum.net'
+  - '+.mikanani.me'
+  - '+.derpibooru.org'
